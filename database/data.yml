@@ -1,0 +1,8 @@
+# Sample YAML config for data pipelines
+database:
+  name: production_db
+  tables:
+    - name: Users
+      columns: 3
+    - name: Orders
+      columns: 5
