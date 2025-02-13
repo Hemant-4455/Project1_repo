@@ -5,4 +5,5 @@ database:
     - name: Users
       columns: 3
     - name: Orders
-      columns: 5
+      columns: 4
+      description: "Stores customer orders"
